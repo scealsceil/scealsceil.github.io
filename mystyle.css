@@ -1,0 +1,33 @@
+body {
+	margin-left: 40px;
+	margin-top: 40px;
+	margin-right: 40px;
+	background-image:url("../pic/vintage-concrete.png");
+}
+#navigation {
+    position: absolute;
+    top: 1;
+    left: 0;
+    width: 200px;
+
+    
+}
+ul {
+    list-style-type: none;
+    width:80px;
+    padding: 2;
+    margin-left: 5px;
+     border: 1px solid #555;
+}
+li a {
+    display: block;
+    width: 60px;
+   
+    padding: 5px;
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+#content {
+    margin-left: 150px;
+    width:350px;
+}
