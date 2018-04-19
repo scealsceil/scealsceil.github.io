@@ -1,0 +1,71 @@
+<!doctype html>
+
+<html lang="ga">
+<head>
+<link rel="stylesheet" href="epub3.css">
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+ <P>
+Aig Rínn-Cúluisge, in iarthar Chontae
+Chorcaigh, ritheann an fhairrge a bh-fhad a steach
+anns an tír i g-cosamhlacht le abhainn, agus
+is gnáthach leis na buachaillibh do comhnuigheann 
+in aice na h-áite cruinniughadh air a
+bruach i laethe breaghtha aig imirt cleas.
+Lá dá raibh buachaill timchioll cheithre bliadhna 
+deug d'aois 'n-a aonar cois na trágha,
+do bhídh sé aig feuchain gan faitchios air an
+bh-fairrge in a raibh luisne glas-uaine ó
+thaithneamh na gréine, agus gan gal gaoithe
+anns ann aer. </p>
+<p>
+Budh mhinic roimhe sin do
+shuidh sé le h-ais na taoide do bhidh anois aig
+bualadh a g-coinne na g-cloch fá n-a bhun, acht
+shíl sé nach bh-fheacaidh sé ariamh aghaidh an uisge
+níos deigh-sgeimheamhla, agus dubhairt sé leis
+féin dá m-beidheadh bád aige gur fonnmhar
+rachfadh se aig bádóireacht, acht ní raibh bád
+'n-a radharc. Le línn feuchain timchioll air
+do chonnairc sé clár adhmaid i bh-fhogus do,
+agus anns an am g-céadna, do dhearc sé
+trí h-ealaidhe aig snámh air bhár an locha
+agus iad aig teacht fá n-a dhéighin. D'iompoigheadar 
+ann so agus ann sud, acht i
+n-diaigh tamaill gheairr tángadar 'n-a
+láthair. </p>   
+ 
+<p>Do ghlac luathghair mhór an buachaill
+aig feicsin cruth na n-eun. Thiomarg se an
+mheid brusgair aráin do bhídh 'n-a phocaidh,
+agus do thug doibh é le n-ithe. Mheas sé
+ná'r budh éin fiadhanta iad, dheabharuidheadar
+bheith cómh ceannsa, muinnteardha sin.
+Theidhidis comhgharach go leór do, acht gach
+uair thug sé iarracht air bhreith orra do theip
+air cuimilt leó.</p>
+<p>
+Ní rabhadar a b-fhad 'n-a chomhghar an
+tráth shamhluigheadar do bheith aig dul fós
+níos mó i m-breaghacht agus i d-taithnea-
+mhacht, agus do neartuigh a mhian breith orra.
+Dus a dhuil do chur a bh-fheidhim, rug sé air
+an g-clár adhmaid, shuig sé air, agus do lean
+na h-ealaidhe. Shéol sé an clár do réir
+a thoile le n-a lámha do thumadh go dian anns
+an uisge mar is gnáthach do dhéanamh le
+maididhe rámha. Chongbhaigheadar na h-ea-
+laidhe a m-bealach roimhe, acht níor bh'fhéidir
+leis teacht suas leó. </p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
